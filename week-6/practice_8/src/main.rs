@@ -16,7 +16,7 @@
         println!("Quotient: {}", result);
 
         result = num1 % num2;
-        println!("Remainder: {}", result);
+        println!("Remainder: {}", result    );
 
 
 

@@ -1,4 +1,4 @@
-       use std::io;
+        use std::io;
         fn main(){
 
         let mut input1 = String::new();
@@ -26,6 +26,7 @@
 
                  let  x1:f64 = (-b + d.sqrt()) / (2.0 * a);
                  let  x2:f64 = (-b - d.sqrt()) / (2.0 * a);
+                 
                   // To Print The Answer Based on the determinant
 
                     if d > 0.0     {
